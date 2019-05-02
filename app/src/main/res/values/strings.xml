@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">CSCI490-lab-3</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">CSCI490_Lab3</string>
+    <string-array name="classArray">
+        <item>Programming Language Concepts</item>
+        <item>Operating Systems</item>
+        <item>Android Application Development</item>
+        <item>CofC Industry Capstone</item>
+        <item>Software Architecture</item>
+    </string-array>
 </resources>
